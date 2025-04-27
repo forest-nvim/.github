@@ -18,11 +18,4 @@ Bonsai will offer a customizable distraction-free environment, minimalist UI twe
 
 ---
 
-## 🚀 Join Us
-
-We're still growing!  
-If you're passionate about minimalism, beauty, and perfection — contributions, feedback, and ideas are all welcome. 🌿
-
----
-
 *Crafted with the art of programming in mind.*
