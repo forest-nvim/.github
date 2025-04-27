@@ -16,6 +16,6 @@ Bonsai will offer a customizable distraction-free environment, minimalist UI twe
 
 > *"Trim the noise"*
 
----
-
-*Crafted with the art of programming in mind.*
+```
+Crafted with the art of programming in mind.
+```
