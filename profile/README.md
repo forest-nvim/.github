@@ -1,6 +1,6 @@
 # 🌲 Forest.nvim
 
-Welcome to **Forest.nvim** — a growing collection of beautiful, nature-inspired plugins for Neovim.
+Welcome to **Forest.nvim** — a growing collection of beautiful, minimal plugins for Neovim.
 
 ## 🌳 Projects
 
@@ -15,16 +15,6 @@ A **zenmode** plugin to help you focus deeply while coding.
 Bonsai will offer a customizable distraction-free environment, minimalist UI tweaks, and focus-enhancing features.
 
 > *"Trim the noise"*
-
----
-
-## 🌱 Philosophy
-
-At Forest.nvim, we believe in tools that are:
-
-- **Minimal** — No bloat, just what you need.
-- **Beautiful** — Carefully crafted colors and experiences.
-- **Peaceful** — Plugins that promote focus and calm while you work.
 
 ---
 
