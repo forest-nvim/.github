@@ -5,7 +5,7 @@ Welcome to **Forest.nvim** — a growing collection of beautiful, minimal plugin
 ## 🌳 Projects
 
 ### [Sequoia](https://github.com/Forest.nvim/sequoia.nvim)
-A vibrant and elegant **theme collection** for Neovim, designed to mirror the calming strength of a sequoia forest.  
+A vibrant and elegant **theme collection** for Neovim.  
 Supports a wide range of plugins and language features out of the box.
 
 > *"Tall, strong, and timeless"*
