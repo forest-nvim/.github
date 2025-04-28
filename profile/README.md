@@ -13,7 +13,7 @@ Supports a wide range of plugins and language features out of the box.
 
 ---
 
-### [🍁 Maple](https://github.com/Forest.nvim/maple.nvim) *(in development)*
+### [🍁 Maple](https://github.com/Forest.nvim/maple.nvim)
 A **todolist** built directly into your Neovim window.  
 Maple offers a customizable, minimalist UI for organizing tasks, with simple yet powerful features.
 
