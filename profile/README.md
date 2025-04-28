@@ -5,7 +5,7 @@ Crafted with the 🌿 art of programming in mind.
 
 ## 🌳 Projects
 
-### [🌲 Sequoia](https://github.com/Forest.nvim/sequoia.nvim)
+### [🌲 Sequoia](https://github.com/Forest-nvim/sequoia.nvim)
 A vibrant and elegant **theme collection** for Neovim.  
 Supports a wide range of plugins and language features out of the box.
 
@@ -13,7 +13,7 @@ Supports a wide range of plugins and language features out of the box.
 
 ---
 
-### [🍁 Maple](https://github.com/Forest.nvim/maple.nvim)
+### [🍁 Maple](https://github.com/Forest-nvim/maple.nvim)
 A **notes** system built directly into your Neovim window.  
 Maple offers a customizable, minimalist UI for writing notes about your projects.
 
@@ -21,7 +21,7 @@ Maple offers a customizable, minimalist UI for writing notes about your projects
 
 ---
 
-### [🌿 Bonsai](https://github.com/Forest.nvim/bonsai.nvim) *(in development)*
+### [🌿 Bonsai](https://github.com/Forest-nvim/bonsai.nvim) *(in development)*
 A **zenmode** plugin to help you focus deeply while coding.  
 Bonsai creates a customizable, distraction-free environment with clean UI tweaks and focus-enhancing features.
 
