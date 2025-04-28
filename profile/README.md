@@ -27,6 +27,3 @@ Bonsai creates a customizable, distraction-free environment with clean UI tweaks
 
 > *"Trim the noise, cultivate focus."* 🧘‍♂️
 
----
-
-> 🌱 *Grow your workflow, naturally.*
