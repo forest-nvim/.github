@@ -17,7 +17,7 @@ Supports a wide range of plugins and language features out of the box.
 A **notes** system built directly into your Neovim window.  
 Maple offers a customizable, minimalist UI for writing notes about your projects.
 
-> *"Stay grounded, branch out."* 🍂
+> *"Hard woods like maple are sometimes used for paper."* 🍂
 
 ---
 
