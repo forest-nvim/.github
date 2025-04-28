@@ -12,7 +12,7 @@ Supports a wide range of plugins and language features out of the box.
 
 ### [Bonsai](https://github.com/Forest.nvim/bonsai.nvim) *(in development)*
 A **zenmode** plugin to help you focus deeply while coding.  
-Bonsai will offer a customizable distraction-free environment, minimalist UI tweaks, and focus-enhancing features.
+Bonsai gives a customizable distraction-free environment, minimalist UI tweaks, and focus-enhancing features.
 
 > *"Trim the noise"*
 
