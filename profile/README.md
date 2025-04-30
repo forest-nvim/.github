@@ -1,6 +1,6 @@
-# 🌲 Forest.nvim
+# 🌲 Forest-nvim
 
-Welcome to **Forest.nvim** — a growing collection of beautiful, minimal plugins for Neovim.  
+Welcome to **Forest-nvim** — a growing collection of beautiful, minimal plugins for Neovim.  
 Crafted with the 🌿 art of programming in mind.
 
 ## 🌳 Projects
@@ -17,7 +17,7 @@ Supports a wide range of plugins and language features out of the box.
 A **notes** system built directly into your Neovim window.  
 Maple offers a customizable, minimalist UI for writing notes about your projects.
 
-> *"Hard woods like maple are sometimes used for paper."* 🍂
+> *"Hard woods like maple are sometimes used for paper in notebooks."* 🍂
 
 ---
 
@@ -25,5 +25,5 @@ Maple offers a customizable, minimalist UI for writing notes about your projects
 A **zenmode** plugin to help you focus deeply while coding.  
 Bonsai creates a customizable, distraction-free environment with clean UI tweaks and focus-enhancing features.
 
-> *"Trim the noise, cultivate focus."* 🧘‍♂️
+> *"Trim the noise"* 🧘‍♂️
 
