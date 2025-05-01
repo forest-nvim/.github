@@ -21,7 +21,7 @@ Maple offers a customizable, minimalist UI for writing notes about your projects
 
 ---
 
-### [🌿 Bonsai](https://github.com/Forest-nvim/bonsai.nvim) *(in development)*
+### [🌿 Bonsai](https://github.com/Forest-nvim/bonsai.nvim)
 A **zenmode** plugin to help you focus deeply while coding.  
 Bonsai creates a customizable, distraction-free environment with clean UI tweaks and focus-enhancing features.
 
