@@ -1,6 +1,6 @@
 # 🌲 Forest-nvim
 
-Welcome to **Forest-nvim** — a growing collection of beautiful, minimal plugins for Neovim.  
+I just wanted a place to put all my neovim plugins...
 
 ## Projects
 
